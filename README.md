@@ -1,6 +1,13 @@
 # flutter_meuprimeiro
 
-A new Flutter project.
+
+
+![Captura de tela 2024-03-30 200129](https://github.com/Gfbertogna/FLUTTER_MEUPRIMEIRO/assets/165523561/185c9b8b-0b04-42ba-b6e4-6b8a96cd95a0)
+
+
+
+
+
 
 ## Getting Started
 
@@ -14,3 +21,5 @@ A few resources to get you started if this is your first Flutter project:
 For help getting started with Flutter development, view the
 [online documentation](https://docs.flutter.dev/), which offers tutorials,
 samples, guidance on mobile development, and a full API reference.
+
+
